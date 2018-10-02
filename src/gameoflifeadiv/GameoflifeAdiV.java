@@ -15,7 +15,7 @@ public class GameoflifeAdiV {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //Testing Github for good copy
     }
     
 }
